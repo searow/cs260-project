@@ -1,0 +1,9 @@
+[submodule "cleverhans"]
+	path = cleverhans
+	url = git@github.com:searow/cleverhans.git
+[submodule "mnist_challenge"]
+	path = mnist_challenge
+	url = git@github.com:searow/mnist_challenge.git
+[submodule "cifar10_challenge"]
+	path = cifar10_challenge
+	url = git@github.com:searow/cifar10_challenge.git
