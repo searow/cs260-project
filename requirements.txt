@@ -1,6 +1,5 @@
 absl-py==0.6.1
 astor==0.7.1
--e git+git@github.com:searow/cleverhans.git@06b804e5e27041d577adb060b56f2da3c134fe12#egg=cleverhans&subdirectory=../../cleverhans
 cycler==0.10.0
 gast==0.2.0
 grpcio==1.16.1
